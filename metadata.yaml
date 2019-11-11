@@ -1,0 +1,51 @@
+_repo: Wolf-Ear-the-Indian-A-story-of-the-great-uprising-of-1890-91_60633
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pearse, Alfred
+    alias: Pearse, A.
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '9928'
+    url: http://www.gutenberg.org/2009/agents/9928
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Pearse
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - LaSalle, Charles E.
+    - Randolph, Geoffrey
+    - Ellis, E. S. (Edward Sylvester)
+    - Hawthorne, R. M.
+    - Jayne, R. H.
+    - Ellis, Edward S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+    wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
+description: ''
+gutenberg_issued: '2019-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60633'
+  lccn: '2016661056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunters -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Dakota Indians -- Wars, 1890-1891 -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Loyalty -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Wolf Ear the Indian: A story of the great uprising of 1890-91'
+url: http://www.gutenberg.org/ebooks/60633
