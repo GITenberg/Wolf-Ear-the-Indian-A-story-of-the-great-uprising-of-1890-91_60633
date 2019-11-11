@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9928'
     url: http://www.gutenberg.org/2009/agents/9928
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Pearse
+covers:
+- cover_type: archival
+  image_path: 60633-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Ellis, Edward Sylvester
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2569
     wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60633#Wolf-Ear-the-Indian-A-story-of-the-great-uprising-of-1890-91
 gutenberg_issued: '2019-11-05'
 gutenberg_type: Text
 identifiers:
